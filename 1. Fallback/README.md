@@ -1,4 +1,4 @@
-### Challenge Solution:
+### Challenge:
 1. claim ownership of the contract
 2. reduce its balance to 0
 
