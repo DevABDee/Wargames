@@ -5,4 +5,4 @@
 - getStorageAt(SLOT_2)
 
 ### Takeaway:
-- `private` variables on-chain are never really private 
+- `private` variables on-chain are never really private :)
