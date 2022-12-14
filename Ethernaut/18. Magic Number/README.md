@@ -1,6 +1,5 @@
 ### Challenge:
 To solve this level, you only need to provide the Ethernaut with a Solver, a contract that responds to whatIsTheMeaningOfLife() with the right number.
-
 - The solver's code needs to be really tiny: 10 opcodes at most.
 
 ### Solution:
